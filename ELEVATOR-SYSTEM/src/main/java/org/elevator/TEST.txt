@@ -1,0 +1,27 @@
+Actors:
+    Passenger
+        wt:
+        # press Button
+
+    System:
+
+    Elevator:
+    DisplayBoard
+
+Actions:
+
+    Systems:
+        Schedule The Elevator
+        Check the wait of the elevator.
+        Check the allowed floors
+    Passenger:
+        Call for Elevator
+        Stop the elevator
+        Emergency Call.
+
+
+
+
+
+
+
